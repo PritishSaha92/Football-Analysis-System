@@ -1,0 +1,1 @@
+Developed a real-time multi-object detection and tracking system using YOLOv8 and ByteTrack (box loss: 0.46, classification loss: 0.20, focal loss: 0.65). Automated team classification via SigLIP embeddings and UMAP. Applied homography-based pitch alignment for tactical radar visualization and spatial analysis.
